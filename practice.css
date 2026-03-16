@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+}
+
+.border {
+    height: 1123px;
+    width: 794px;
+    border: 3px solid white;
+    margin: auto;
+}
+
+.image {
+    height: 150px;
+    width: 150px;
+    border: 2px solid white;
+    overflow: hidden;
+}
+
+.image img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.head {
+    height: 150px;
+    width: 794px;
+    border: 3px solid white;
+    margin: auto;
+    display: flex;
+}
+
+.username {
+    height: 150px;
+    width: 644px;
+    border: 3px solid white;
+    margin: auto;
+}
+
+.main {
+    height: 650px;
+    width: 794px;
+    border: 3px solid white;
+}
+
+.box201 {
+    height: 100px;
+    width: 794px;
+    border: 3px solid white;
+}
+
+.box301 {
+    height: 540px;
+    width: 794px;
+    border: 3px solid white;
+} 
+
+.student_details {
+    height: 200px;
+    width: 794px;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+}
+
+.skills {
+    height: 200px;
+    width: 794px;
+    border: 3px solid white;
+    display: flex;
+}
+
+.language {
+    height: 200px;
+    width: 220px;
+    border: 3px solid white;
+}
+
+.programming {
+    height: 200px;
+    width: 264px;
+    border: 3px solid white;
+    display: flex;
+}
+
+.certificates {
+    height: 200px;
+    width: 264px;
+    border: 3px solid white;
+    display: flex;
+}
+
+.footer {
+    height: 300px;
+    width: 794px;
+    border: 3px solid white;
+}
+
+h3 {
+    text-align: center;
+}
+
+.boss{
+    height: 600px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.box11 {
+    height: 110px;
+    width: 380px;
+    border: 2px solid white;
+    margin-left: 10px;
+    
+}
+.box01 {
+    height: 90px;
+    width: 380px;
+    border: 2px solid white;
+    display: flex;
+    /* margin-left: 10px; */
+}
+
+.box12 {
+    height: 80px;
+    width: 182px;
+    border: 2px solid black;
+    /* margin-left: 10px; */
+}
+
+.box13 {
+    height: 80px;
+    width: 180px;
+    border: 2px solid black;
+    margin-left: 10px;
+
+}
+
+.box21 {
+    height: 85px;
+    width: 380px;
+    border: 2px solid white;
+    margin-left: 10px;
+    margin: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+p My_Cir{
+    color: green;
+}
+
+img {
+    width: 700px;
+}
+
+.box31 {
+    height: 85px;
+    width: 380px;
+    border: 2px solid white;
+}
+
+.box41 {
+    height: 85px;
+    width: 380px;
+    border: 2px solid white;
+
+}
+
+.dl {
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+    font-size: 1.6rem;
+}
